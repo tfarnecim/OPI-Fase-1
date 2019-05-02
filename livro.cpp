@@ -9,7 +9,6 @@ int main(){
 	
 	for(int i=0;i<n;i++) cin >> l[i] >> r[i];
 	
-	
 	int k;
 	
 	cin >> k;k--;
